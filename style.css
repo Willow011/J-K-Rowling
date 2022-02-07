@@ -1,0 +1,35 @@
+body{
+    margin:0;
+padding-top:100px;
+text-align:center;
+font-family: 'Comforter', cursive;
+font-size:larger
+}
+
+p{
+color:rgb(11, 51, 184);
+}
+h1{
+    
+    color:rgba(11, 105, 255, 0.582);
+    }
+    
+    .menu{
+list-style:none;
+position:absolute;
+top:10px;
+right:10px;
+z-index:10px;
+cursor:pointer;
+    }
+
+    .links{
+        float:left;
+        padding-top:5px;
+        padding-left:10px;
+        padding: right 10px;
+        padding-bottom:5px;
+        font-size:20px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: cornflowerblue;
+    }
